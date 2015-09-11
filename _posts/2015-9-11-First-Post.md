@@ -7,15 +7,9 @@ title: This is the First Post
 
 What is happening.
 
-~~~python
-def myfunc():
-	if you == 4:
-		print 'Yes'
-	else:
-		print 'don\'t'
-class hello(self):
-	break
-~~~
-
+Some latex:
 
 $$ a^2 + b^2  = 1$$
+
+
+\\[ \frac{1}{n^{2}} \\]
