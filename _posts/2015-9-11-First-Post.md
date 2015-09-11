@@ -3,6 +3,8 @@ layout: post
 title: This is the First Post
 ---
 
+
+
 What is happening.
 
 ~~~python
@@ -14,3 +16,6 @@ def myfunc():
 class hello(self):
 	break
 ~~~
+
+
+$$ a^2 + b^2  = 1$$
