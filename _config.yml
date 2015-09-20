@@ -54,6 +54,8 @@ baseurl: ""
 #
 
 markdown: KramdownPygments
+kramdown:
+  default_lang: python
 highlighter: pygments
 permalink: /:title/
 
