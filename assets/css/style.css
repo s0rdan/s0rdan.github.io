@@ -391,7 +391,7 @@ table {
 	width: 100%;
 	margin: 40px 0;
 	border-collapse: collapse;
-	font-size: 13px;
+	font-size: 16px;
 	line-height: 1.5em;
 }
 
@@ -399,6 +399,12 @@ th,td {
 	text-align: left;
 	padding-right: 20px;
 	vertical-align: top;
+}
+
+th {
+	font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
 }
 
 table td,td {
@@ -420,9 +426,9 @@ thead th,th {
 	text-align: left;
 	padding: 10px 15px;
 	height: 20px;
-	font-size: 13px;
-	font-weight: bold;
-	color: #444;
+	font-size: 16px;
+	font-weight: normal;
+	color: #3f3f3f;
 	border-bottom: 1px solid #dadadc;
 	cursor: default;
 	white-space: nowrap;
