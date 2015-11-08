@@ -11,6 +11,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .hidden { display: none; }
 
 /* Icons */
+
+@font-face {
+  font-family: 'FuturaLight';
+  src: url('futura.ttf');
+
+}
+
 @font-face {
 	font-family: 'icons';
 		src: url('../fonts/icons.eot');
@@ -101,8 +108,8 @@ margin-bottom: 25px;
 html, body { height: 100%; }
 
 body {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 14px;
+	font-family: 'FuturaLight', 'Trebuchet MS', Arial, sans-serif;
+	font-size: 15px;
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
