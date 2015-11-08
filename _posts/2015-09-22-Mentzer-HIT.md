@@ -4,8 +4,6 @@ title: Mike Mentzer's High-Intensity Training
 description: s0rdan's Notes #2
 ---
 
-# Mike Mentzer's High-Intensity Training
-
 ##The First Principle: Indentity
 
 “A is A” implies causality. Anatomically and physiologically, every human being is essentially the same. Rational training, use logic to gain knowledge. Logic is non-contradictory identification.##The Second Principle: Intensity

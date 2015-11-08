@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The curse of time
-description: s0rdan's reflections #2
+description: s0rdan's reflections \#2
 ---
-# The curse of time
 
 All resolutions fade in time. It goes the same for all experiences, they become memories and gradually fade away. It can sometimes be beneficial, think of some traumatic event that is better off roaming in the limbs rather than at the forefront of your everyday thoughts.
 There come moments of great clarity, periods of great calm and serenity. From these, we draw a new-found breath for life, a motivation that lifts us from mediocrity. But invariably, we fall down. Over and over again. We would ideally like to stay forever on this ascending curve, but something tips us over the edge, and we are back to where we always have been.

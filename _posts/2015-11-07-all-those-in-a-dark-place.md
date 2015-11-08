@@ -4,8 +4,6 @@ title: To all those in a dark place
 description: s0rdan's reflections #1
 ---
 
-# To all those in a dark place
-
 I used to envy actors, but I soon realised it wasn’t their lives that I desired, only the lives of the characters they portrayed. We are all actors in some kind of way. But we are also directors of our lives, we write the script and choose its direction. Maybe it is easy to forget that. 
 As human beings, gifted with free-will, we have this great power over our circumstances, and this is frightening. As I once heard said: « It is our light and not our darkness that most frightens us. », starts making sense.
 
