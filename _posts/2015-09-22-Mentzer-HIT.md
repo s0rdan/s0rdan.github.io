@@ -1,6 +1,7 @@
 ---
-title: s0rdan's Notes
-description: Mike Mentzer's High-Intensity Training
+layout: post
+title: Mike Mentzer's High-Intensity Training
+description: s0rdan's Notes #2
 ---
 
 # Mike Mentzer's High-Intensity Training
