@@ -110,7 +110,8 @@ html, body { height: 100%; }
 body {
 	font-family: 'FuturaLight', 'Trebuchet MS', Arial, sans-serif;
 	font-size: 15px;
-	color: #666;
+	text-align: justify;
+	color: #333;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
