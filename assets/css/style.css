@@ -258,12 +258,12 @@ li	{ list-style-type:circle; list-style-position:inside;}
 #post-body, p {line-height:1.7; }
 
 #post-body h1 {
-	font: 30px "Computer Roman Serif", Georgia, serif;
+	font: 30px "Helvetica Neue", Georgia,sans-serif;
 	text-align: center;
 	margin-bottom: 80px;
 }
 #post-body h2 {
-	font: 24px "Computer Roman Serif", Georgia, serif;
+	font: 24px "Helvetica Neue", Georgia,sans-serif;
 	margin-bottom: 15px;
 	margin-top: 40px;
 }
