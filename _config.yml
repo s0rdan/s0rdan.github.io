@@ -5,7 +5,7 @@ meta_description: "s0rdan - Personal Blog"
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
