@@ -4,7 +4,7 @@ meta_description: "s0rdan - Personal Blog"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
