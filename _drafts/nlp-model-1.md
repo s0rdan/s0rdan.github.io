@@ -4,10 +4,14 @@ description: From first COMP tutorial
 ---
 
 
-\~python
+<<<<<<< HEAD
+~python
+=======
+~~~python
+>>>>>>> origin/master
 # To run in an ipython notebook on the docker image
 %%capture
-%load\_ext autoreload
+%load_ext autoreload
 %autoreload 2
 %matplotlib inline
 import sys
@@ -24,34 +28,34 @@ dictionary = 'i':'ich', 'ate':'aß', 'red':'rot', 'apple':'apfel', 'yesterday':'
 import math
 import numpy as np
 
-x\_space = ['I ate an apple', 
-]()   'I ate a red apple', 
+x_space = ['I ate an apple', 
+]()]()   'I ate a red apple', 
    'Yesterday I ate a red apple', 
    'Yesterday I ate a red apply with a friend']
-y\_space = ['Ich aß einen Apfel',
-]()   'Ich aß einen roten Apfel',
+y_space = ['Ich aß einen Apfel',
+]()]()   'Ich aß einen roten Apfel',
    'Gestern aß ich einen roten Apfel',
    'Gestern aß ich einen roten Apfel mit einem Freund']
-data = list(zip(x\_space,y\_space))
+data = list(zip(x_space,y_space))
 train = data[:2]()
 test = data[2:]()
 
 def f(x):
-input\_ = x.split()
-fake\_translation = []()
-for word in input\_:
+input_ = x.split()
+fake_translation = []()
+for word in input_:
 try:
-fake\_translation.append(dictionary[word.lower()]())
+fake_translation.append(dictionary[word.lower()]())
 except: pass
-return fake\_translation
+return fake_translation
 
 def similarity(x, y):
-fake\_translation = f(x)
-real\_translation = y.split()
+fake_translation = f(x)
+real_translation = y.split()
 total = 0
-for fake\_word in fake\_translation:
-for real\_word in real\_translation:
-if fake\_word in real\_word.lower():
+for fake_word in fake_translation:
+for real_word in real_translation:
+if fake_word in real_word.lower():
 total +=1
 lenx, leny = len(x.split()), len(y.split())
 
@@ -61,19 +65,25 @@ return 1.0
 else:
 return measure
 
-def prediction(x, y\_space):
+def prediction(x, y_space):
 measure = 0
-for idx, sentence in enumerate(y\_space):
+for idx, sentence in enumerate(y_space):
 score = similarity(x, sentence)
 if score \> measure:
 measure = score
 position = idx
-return y\_space[position]()
+return y_space[position]()
 
 xpred = 'An apple fell off the tree yesterday'
-prediction(xpred, y\_space)
+prediction(xpred, y_space)
 
+<<<<<<< HEAD
+sample = x_space[3]()
+util.Table([(sample, y, similarity(sample, y)) for y in y_space for sample in x_space]())
+~
+=======
 sample = x\_space[3]()
 util.Table([(sample, y, similarity(sample, y)) for y in y\_space for sample in x\_space]())
-\~
+~~~
+>>>>>>> origin/master
 
