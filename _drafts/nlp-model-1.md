@@ -4,11 +4,15 @@ description: From first COMP tutorial
 ---
 
 
+<<<<<<< HEAD:_drafts/nlp-model-1.md
 <<<<<<< HEAD
 ~python
 =======
 ~~~python
 >>>>>>> origin/master
+=======
+~~~python
+>>>>>>> origin/master:_drafts/---.md
 # To run in an ipython notebook on the docker image
 %%capture
 %load_ext autoreload
@@ -85,5 +89,8 @@ util.Table([(sample, y, similarity(sample, y)) for y in y_space for sample in x_
 sample = x\_space[3]()
 util.Table([(sample, y, similarity(sample, y)) for y in y\_space for sample in x\_space]())
 ~~~
+<<<<<<< HEAD:_drafts/nlp-model-1.md
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master:_drafts/---.md
 
